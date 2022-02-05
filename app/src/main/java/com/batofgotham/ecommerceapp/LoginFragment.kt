@@ -48,8 +48,11 @@ class LoginFragment : Fragment() {
                     binding.loginButton.setOnClickListener{
                         AuthUI.getInstance().signOut(requireContext())
                     }
+                    if(FirebaseAuth.getInstance().currentUser?.displayName != null)
                     binding.textView.text = resources.getString(R.string.welcome_message,
                         FirebaseAuth.getInstance().currentUser?.displayName)
+                    else
+                        binding.textView.text = resources.getString(R.string.welcome_message,"Happy Shopping")
                 }
 
                 else ->{
