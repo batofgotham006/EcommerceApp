@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EcommerceApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register_log_in_text">REGISTER/LOG IN</string>
+    <string name="log_out_text">LOG OUT</string>
+    <string name="welcome_message">Welcome to ShoppingApp %1$s.</string>
+    <string name="login_instruction">Please click the following button to Login and Proceed</string>
+</resources>

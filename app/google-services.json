@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "323480543081",
+    "project_id": "ecommerce-sample-825bc",
+    "storage_bucket": "ecommerce-sample-825bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323480543081:android:54d4e5fc3980bf0991e7f8",
+        "android_client_info": {
+          "package_name": "com.batofgotham.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323480543081-3up4or4apt1jde0m8vmvoj2k56mj13j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.batofgotham.ecommerceapp",
+            "certificate_hash": "8680f23890077a4d9b541190409838dea2f72085"
+          }
+        },
+        {
+          "client_id": "323480543081-5c7u38abq72d4upsthf0bql0ge345tfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT9_1NmcnlQd50Q67qHXcj_iz1ZuDwCnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323480543081-5c7u38abq72d4upsthf0bql0ge345tfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
